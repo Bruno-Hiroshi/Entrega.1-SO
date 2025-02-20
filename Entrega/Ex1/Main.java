@@ -1,6 +1,6 @@
 package Ex1;
 
-public class principal {
+public class Main {
     public static void main(String[] args) {
         ClasseOperadora op = new ClasseOperadora();
 
