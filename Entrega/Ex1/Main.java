@@ -1,4 +1,4 @@
-package ex_1;
+package Ex1;
 
 public class principal {
     public static void main(String[] args) {
