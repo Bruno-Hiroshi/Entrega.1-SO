@@ -1,4 +1,4 @@
-package ex1;
+package Ex1;
 
 public class ClasseOperadora {
     public ClasseOperadora()
