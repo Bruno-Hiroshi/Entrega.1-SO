@@ -1,8 +1,8 @@
-package ex_3;
+package Ex3;
 
 import java.util.Scanner;
 
-public class principal {
+public class Main {
     public static void main(String[] args) {
         Operadora op = new Operadora();
         Scanner sc = new Scanner(System.in);
