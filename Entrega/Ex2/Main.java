@@ -2,7 +2,7 @@ package Ex2;
 
 import javax.swing.*;
 
-public class principal {
+public class Main {
     public static void main(String[] args) {
         classeoperadora cl = new classeoperadora();
 
