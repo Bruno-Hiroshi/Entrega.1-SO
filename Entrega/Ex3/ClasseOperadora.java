@@ -1,4 +1,4 @@
-package ex_3;
+package Ex3;
 
 public class Operadora {
     public Operadora()
